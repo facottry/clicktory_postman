@@ -1,0 +1,24 @@
+{
+  "workspace": {
+    "id": "86c9dfc0-4183-42d6-be3b-aa7b12dee9fd"
+  },
+  "entities": {
+    "environments": [
+      "..\\appserver\\env.dev.json",
+      "..\\appserver\\env.prod.json",
+      "..\\adminserver\\env.dev.json",
+      "..\\adminserver\\env.prod.json",
+      "..\\botserver\\env.dev.json"
+    ],
+    "flows": [],
+    "globals": [],
+    "mocks": [],
+    "specs": [],
+    "collections": [
+      "..\\appserver\\collection.json",
+      "..\\adminserver\\collection.json",
+      "..\\botserver\\collection.json",
+      "..\\trackserver\\collection.json"
+    ]
+  }
+}

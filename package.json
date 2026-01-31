@@ -1,0 +1,13 @@
+{
+  "name": "postman",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git add . && git commit -m 'update' && git push origin main",
+    "production": "git push -f origin main:PRODUCTION_DEPLOYMENT"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
