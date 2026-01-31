@@ -9,7 +9,7 @@
 
 ## Authentication
 - **Method**: Bearer Token (JWT).
-- **Header**: `Authorization: Bearer <token>`
+- **Header**: `Authorization: Bearer <token>`P
 - **Login Flow**: 
   1. Standard Email/Password Login -> Returns JWT.
   2. OTP Flow (Login with OTP, Send OTP) -> Returns JWT.
